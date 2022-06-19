@@ -16,3 +16,4 @@ print(f"W sumie kupuję {Leng} produktów.")
 # Można zmodyfikować słownik na upper i powtórzyć pętle w wersji dla upper.
 # Fajne zadanie na listy. Jest kilka możliwości. 
 # druga zmiana pliku
+# trzecia zmiana
