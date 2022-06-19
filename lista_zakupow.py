@@ -18,4 +18,4 @@ print(f"W sumie kupuję {Leng} produktów.")
 # druga zmiana pliku
 # trzecia zmiana
 
-print(f"Pozdrowienia z Łodzi!")
+print(f"Upps jeszcze jedna proba!")
