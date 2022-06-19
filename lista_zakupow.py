@@ -17,3 +17,5 @@ print(f"W sumie kupuję {Leng} produktów.")
 # Fajne zadanie na listy. Jest kilka możliwości. 
 # druga zmiana pliku
 # trzecia zmiana
+
+print(f"Pozdrowienia z Łodzi!")
